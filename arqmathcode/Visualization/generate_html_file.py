@@ -1,4 +1,6 @@
-template_file = "Visualization/template.html"
+import os.path
+
+template_file = os.path.join(os.path.dirname(__name__), "template.html")
 
 
 class HtmlGenerator:
