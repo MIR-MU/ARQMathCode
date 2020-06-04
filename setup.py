@@ -15,6 +15,7 @@ setup(
             "Clef_Class Diagram.jpg",
             "Visualization/arqmath.png",
             "Visualization/mse.svg",
+            "Visualization/template.html",
         ]
     },
 )
