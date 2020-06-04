@@ -1,6 +1,6 @@
 import os.path
 
-template_file = os.path.join(os.path.dirname(__name__), "template.html")
+template_file = os.path.join(os.path.dirname(__file__), "template.html")
 
 
 class HtmlGenerator:
